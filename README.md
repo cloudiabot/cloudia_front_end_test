@@ -21,7 +21,24 @@ A client has the following properties:
 * Unit tests with Jest (with AngularJS or React) are a must.
 * Any other type of test is welcome.
 * Design must follow Material Design guidelines.
-* If using React, Redux usage is a must.
+
+### If using React
+
+#### Required
+
+* React Hooks
+* Typescript
+* Global control of states (one of the two)
+  * Redux
+  * Context API (preferred)
+
+#### Differential (not mandatory, but earn points)
+
+* Create your own Hook
+* Write CSS using Styled Components
+* Apply [Skeleton Screen](https://brasil.uxdesign.cc/como-as-skeletons-screens-podem-ajudar-a-aprimoram-experi%C3%AAncia-de-uso-do-seu-produto-987c736651ca )
+* Use SWR for API calls
+
 ​
 ## Evaluation Criteria
 ​
